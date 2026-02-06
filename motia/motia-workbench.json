@@ -1,0 +1,81 @@
+[
+  {
+    "id": "hello-world-flow",
+    "config": {
+      "src/hello/process-greeting.step.ts": {
+        "x": 409,
+        "y": 44
+      },
+      "src/hello/hello-api.step.ts": {
+        "x": 0,
+        "y": 0,
+        "sourceHandlePosition": "right"
+      }
+    }
+  },
+  {
+    "id": "ticket-booking-flow",
+    "config": {
+      "src/tickets/validate-booking.step.ts": {
+        "x": 419,
+        "y": 823
+      },
+      "src/tickets/process-refund.step.ts": {
+        "x": 700,
+        "y": 452
+      },
+      "src/tickets/process-payment.step.ts": {
+        "x": 700,
+        "y": 1205
+      },
+      "src/tickets/process-cancellation.step.ts": {
+        "x": 350,
+        "y": 452
+      },
+      "src/tickets/list-events.step.ts": {
+        "x": -1363,
+        "y": 968
+      },
+      "src/tickets/list-customers.step.ts": {
+        "x": -839,
+        "y": 1203
+      },
+      "src/tickets/list-customer-bookings.step.ts": {
+        "x": -1466,
+        "y": 617
+      },
+      "src/tickets/get-event.step.ts": {
+        "x": -1083,
+        "y": 706
+      },
+      "src/tickets/create-event.step.ts": {
+        "x": -552,
+        "y": 957
+      },
+      "src/bookings/list-all-bookings.step.ts": {
+        "x": -620,
+        "y": 654
+      },
+      "src/bookings/init-booking.step.ts": {
+        "x": -121,
+        "y": 728
+      },
+      "src/bookings/handle-booking-failed.step.ts": {
+        "x": 1132,
+        "y": 986
+      },
+      "src/bookings/get-booking.step.ts": {
+        "x": -860,
+        "y": 923
+      },
+      "src/bookings/confirm-booking.step.ts": {
+        "x": 807,
+        "y": 1469
+      },
+      "src/bookings/cancel-booking.step.ts": {
+        "x": -139,
+        "y": 454
+      }
+    }
+  }
+]

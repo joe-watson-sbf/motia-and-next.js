@@ -1,0 +1,50 @@
+# Systems
+.DS_Store
+Thumbs.db
+
+# Dependencies
+node_modules/
+.pnpm-store
+
+# Front specific
+front/node_modules/
+front/.next/
+front/.env*
+!front/.env.example
+
+# Motia specific
+motia/node_modules/
+motia/.motia/
+motia/.env*
+!motia/.env.example
+
+# Build Outputs
+dist/
+build/
+.next/
+out/
+
+# Environment
+.env*
+!.env.example
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# IDEs
+.vscode/
+.idea/
+
+# Testing
+coverage/
+
+# Motia specific (if any specific runtimes, usually node based)
+motia/.motia 
+# Assuming motia might have a local dev folder, but standard node ignores cover most.
+
+# Agent/AI
+.agent/
+.gemini/
