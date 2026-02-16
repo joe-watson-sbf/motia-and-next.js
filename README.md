@@ -3,6 +3,9 @@
 This project demonstrates the power and simplicity of building full-stack
 applications with **Motia** and Next.js.
 
+
+<img width="1060" height="714" alt="image" src="https://github.com/user-attachments/assets/2aef3304-bcb4-460d-a731-1aec2e7ffb60" />
+
 ## What is Motia?
 
 [Motia](https://www.motia.dev/) is a revolutionary backend framework that
